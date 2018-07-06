@@ -1,3 +1,9 @@
+/* Eliminamos la barra de Google */
 #navbar-iframe-container {
 	display: none;
+}
+
+/* Header */
+.navbar-inverse {
+	background-color: #202020;
 }
