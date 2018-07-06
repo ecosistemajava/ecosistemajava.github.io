@@ -6,4 +6,5 @@
 /* Header */
 .navbar-inverse {
 	background-color: #111;
+    height: 70px !important;
 }
