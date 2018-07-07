@@ -8,3 +8,14 @@
 	background-color: #111;
     height: 70px !important;
 }
+
+#titulo span {
+	display: inline-block;
+    vertical-align: middle;
+	color: #AAA;
+    opacity: 0.8;
+}
+
+#titulo img {
+	opacity: 0.8;
+}
